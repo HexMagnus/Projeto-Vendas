@@ -14,7 +14,7 @@ public class ConnectionFactory {
             
             
         } catch (Exception erro) {
-          throw new RuntimeException(erro); {
+          throw new RuntimeException(erro);{
         }
 
       }
